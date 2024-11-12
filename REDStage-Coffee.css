@@ -835,7 +835,6 @@ ul.collage_images li a>span {
     background-color: rgba(0, 0, 0, .32);
     inset: 0 0 0 0;
     cursor: pointer;
-    display: flex;
     flex-flow: row nowrap;
     justify-content: center;
     margin: auto;
