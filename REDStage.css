@@ -445,35 +445,35 @@ table.box, table.box2 {
 }
 
 .read {
-    background: url(/svg/std/document-ccc.svg) 50% no-repeat
+    background: url(/https://raw.githubusercontent.com/ChikaNoChika/REDStage/refs/heads/main/assets/document.svg) 50% no-repeat
 }
 
 .unread {
-    background: url(/svg/std/document-round-ccc.svg) 50% no-repeat
+    background: url(https://raw.githubusercontent.com/ChikaNoChika/REDStage/refs/heads/main/assets/document-round.svg) 50% no-repeat
 }
 
 .read_locked {
-    background: url(/svg/std/lock-ccc.svg) 50% no-repeat
+    background: url(https://raw.githubusercontent.com/ChikaNoChika/REDStage/refs/heads/main/assets/lock.svg) 50% no-repeat
 }
 
 .unread_locked {
-    background: url(/svg/std/lock-round-ccc.svg) 50% no-repeat
+    background: url(https://raw.githubusercontent.com/ChikaNoChika/REDStage/refs/heads/main/assets/lock-round.svg) 50% no-repeat
 }
 
 .read_sticky {
-    background: url(/svg/std/pin-ccc.svg) 50% no-repeat
+    background: url(https://raw.githubusercontent.com/ChikaNoChika/REDStage/refs/heads/main/assets/pin.svg) 50% no-repeat
 }
 
 .unread_sticky {
-    background: url(/svg/std/pin-round-ccc.svg) 50% no-repeat
+    background: url(https://raw.githubusercontent.com/ChikaNoChika/REDStage/refs/heads/main/assets/pin-round.svg) 50% no-repeat
 }
 
 .read_locked_sticky {
-    background: url(/svg/std/pin-and-lock-ccc.svg) 50% no-repeat
+    background: url(https://raw.githubusercontent.com/ChikaNoChika/REDStage/refs/heads/main/assets/pin-and-lock.svg) 50% no-repeat
 }
 
 .unread_locked_sticky {
-    background: url(/svg/std/pin-and-lock-round-ccc.svg) 50% no-repeat
+    background: url(https://raw.githubusercontent.com/ChikaNoChika/REDStage/refs/heads/main/assets/pin-and-lock-round.svg) 50% no-repeat
 }
 
 #footer {
@@ -1401,7 +1401,7 @@ body#collage .cats_applications, body#collage .cats_audiobooks, body#collage .ca
     }
 
     #userinfo_minor:before {
-        background: url(/svg/std/chevrons-down-ccc.svg) no-repeat;
+        background: url(https://raw.githubusercontent.com/ChikaNoChika/REDStage/refs/heads/main/assets/chevrons-down.svg) no-repeat;
         filter: brightness(200%);
         background-size: 28px;
         background-position: 50%;
@@ -1467,7 +1467,7 @@ body#collage .cats_applications, body#collage .cats_audiobooks, body#collage .ca
     background-position: 50%;
     background-repeat: no-repeat;
     background-attachment: scroll;
-    background-image: url(/svg/std/menu-ccc.svg);
+    background-image: url(https://raw.githubusercontent.com/ChikaNoChika/REDStage/refs/heads/main/assets/menu.svg);
     background-size: 30px;
     background-origin: padding-box;
     background-clip: border-box
@@ -2180,7 +2180,7 @@ tr.snatched_group div.tags:before, tr.snatched_torrent div.tags:before {
     }
 
     .td_leechers.m_td_right:before, .td_seeders.m_td_right:before, .td_snatched.m_td_right:before {
-        background: 0/10px no-repeat url(/svg/std/arrow-loop-ccc.svg);
+        background: 0/10px no-repeat url(https://raw.githubusercontent.com/ChikaNoChika/REDStage/refs/heads/main/assets/arrow-loop.svg);
         color: #d5e0d9;
         content: ":";
         filter: brightness(80%);
@@ -2191,11 +2191,11 @@ tr.snatched_group div.tags:before, tr.snatched_torrent div.tags:before {
     }
 
     .td_seeders.m_td_right:before {
-        background-image: url(/svg/std/arrow-up-round-ccc.svg)
+        background-image: url(https://raw.githubusercontent.com/ChikaNoChika/REDStage/refs/heads/main/assets/arrow-up-round.svg)
     }
 
     .td_leechers.m_td_right:before {
-        background-image: url(/svg/std/arrow-down-round-ccc.svg)
+        background-image: url(https://raw.githubusercontent.com/ChikaNoChika/REDStage/refs/heads/main/assets/arrow-down-round.svg)
     }
 
     .m_table.checkboxes td:first-child {
@@ -2531,7 +2531,7 @@ tr.snatched_group div.tags:before, tr.snatched_torrent div.tags:before {
         opacity: 1 !important;
         width: 25px;
         height: 25px;
-        background-image: url(/svg/std/chevrons-down-ccc.svg);
+        background-image: url(https://raw.githubusercontent.com/ChikaNoChika/REDStage/refs/heads/main/assets/chevrons-down.svg);
         background-size: contain;
         z-index: 500;
         pointer-events: none
