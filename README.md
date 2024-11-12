@@ -6,6 +6,6 @@ Putting the style in stylesheet. This is an edit of the ApolloStage stylesheets 
 
 | Style | Link |
 |-------|------|
-| Base | <https://cdn.jsdelivr.net/gh/ChikaNoChika/REDStage@main/REDStage.css> |
-| Coffee | <https://cdn.jsdelivr.net/gh/ChikaNoChika/REDStage@main/REDStage-Coffee.css> |
-| Sunset | <https://cdn.jsdelivr.net/gh/ChikaNoChika/REDStage@main/REDStage-Sunset.css> |
+| Base | <https://cdn.jsdelivr.net/gh/ChikaNoChika/REDStage@latest/REDStage.css> |
+| Coffee | <https://cdn.jsdelivr.net/gh/ChikaNoChika/REDStage@latest/REDStage-Coffee.css> |
+| Sunset | <https://cdn.jsdelivr.net/gh/ChikaNoChika/REDStage@latest/REDStage-Sunset.css> |
