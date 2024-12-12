@@ -27,6 +27,6 @@ Putting the style in stylesheet. This is an edit of the ApolloStage stylesheets 
 
 ## Contributing
 
-If you found a bug and you don't want to fix it yourself, open an issue. \
+If you found a bug and you don't want to fix it yourself, open an issue.  
 
 If you found a bug and you know how to fix it, make a PR with a brief description of what you are fixing and I will merge it.
