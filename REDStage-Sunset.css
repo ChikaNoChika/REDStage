@@ -445,7 +445,7 @@ table.box, table.box2 {
 }
 
 .read {
-    background: url(/https://raw.githubusercontent.com/ChikaNoChika/REDStage/refs/heads/main/assets/document.svg) 50% no-repeat
+    background: url(https://raw.githubusercontent.com/ChikaNoChika/REDStage/refs/heads/main/assets/document.svg) 50% no-repeat
 }
 
 .unread {
