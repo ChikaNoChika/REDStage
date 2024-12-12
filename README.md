@@ -23,7 +23,8 @@ Putting the style in stylesheet. This is an edit of the ApolloStage stylesheets 
 ## Known Bugs and Issues
 
 - Badge hiding is broken
-- Uploading, snatching, and snatched assets are broken
+- Uploading, snatching, and snatched assets are wrong
+- stats.php doesn't work
 
 ## Contributing
 
