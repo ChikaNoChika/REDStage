@@ -24,6 +24,7 @@ Putting the style in stylesheet. This is an edit of the ApolloStage stylesheets 
 
 - Uploading, snatching, and snatched assets are wrong
 - stats.php doesn't work
+- badges.php looks ugly
 
 ## Contributing
 
