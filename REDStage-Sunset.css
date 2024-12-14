@@ -2822,3 +2822,13 @@ tr.snatched_group div.tags:before, tr.snatched_torrent div.tags:before {
 #footer p:last-of-type:after {
     content: " | Apollostage build 240906 sunset"
 }
+
+/* Hack fix for hiding badges taken from the official site CSS */
+.hidden {
+    left: -10000px;
+    position: absolute;
+  }
+  .hidden,
+  input.hidden {
+    display: none;
+  }
